@@ -1,4 +1,4 @@
-# ProjetC
+# Jeu du taquin en C
 Projet jeu Taquin C avec Ncurses
 Jeu du Taquin réalisé dans le cadre de mon projet de programmation. 
 le jeu ce joue à la souris il faut cliqué sur une image pour la déplacer si elle respecte le condition du niveau de difficulté selectionné.
